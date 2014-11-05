@@ -1,0 +1,5 @@
+body{
+	background-attachment: fixed;
+	background-image: -webkit-linear-gradient(315deg,rgb(52, 152, 219), rgb(231, 76, 60));
+	background-size: cover;
+}
