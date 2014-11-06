@@ -3,3 +3,9 @@ body{
 	background-image: -webkit-linear-gradient(315deg,rgb(52, 152, 219), rgb(231, 76, 60));
 	background-size: cover;
 }
+
+#james {
+	font-size: 50px;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
